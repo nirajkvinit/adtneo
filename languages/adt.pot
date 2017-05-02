@@ -1,0 +1,595 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Adore Databases\n"
+"POT-Creation-Date: "
+"2017-04-21 13:42+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: "
+"aqua6617@yahoo.com\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.0.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: index.php:159
+#: php/admin-settings.php:56
+#, fuzzy
+msgid "Settings"
+msgstr ""
+"This is where you can "
+"define additional global "
+"settings for your maps."
+
+#: php/admin-settings.php:51
+msgid ""
+"Welcome to Adore "
+"Datatables! (A jQuery "
+"Datatables based "
+"wordpress plugin)"
+msgstr ""
+
+#: php/admin-settings.php:53
+msgid "Manage"
+msgstr ""
+
+#: php/admin-settings.php:84
+msgid ""
+"Settings table does not "
+"exist."
+msgstr ""
+
+#: php/admin-settings.php:89
+msgid "Select a Datatable"
+msgstr ""
+
+#: php/admin-settings.php:90
+msgid "Create a Datatable"
+msgstr ""
+
+#: php/admin-settings.php:108
+msgid "Use the shortcode"
+msgstr ""
+
+#: php/admin-settings.php:108
+msgid ""
+"in any page/post to "
+"checkout the demo. To "
+"create a new Adore "
+"Datatable instance, "
+"please use the form "
+"below:"
+msgstr ""
+
+#: php/admin-settings.php:112
+msgid ""
+"Select or Create a "
+"Datatable:"
+msgstr ""
+
+#: php/admin-settings.php:205
+msgid "Datatable Styling"
+msgstr ""
+
+#: php/admin-settings.php:212
+msgid ""
+"If any of your theme or "
+"other existing plugin "
+"already loads Bootstrap/"
+"jQueryUI files then do "
+"not load them here."
+msgstr ""
+
+#: php/admin-settings.php:213
+msgid ""
+"If you do not allow "
+"Adore Datatable to Load "
+"JqueryUI here then "
+"jQueryUI themes would "
+"not be available."
+msgstr ""
+
+#: php/admin-settings.php:220
+msgid ""
+"Load Bootstrap through "
+"plugin"
+msgstr ""
+
+#: php/admin-settings.php:221
+msgid ""
+"Load jQueryUI through "
+"plugin"
+msgstr ""
+
+#: php/admin-settings.php:234
+msgid "Save Settings"
+msgstr ""
+
+#: php/admin-settings.php:260
+msgid ""
+"Error! Input was "
+"incorrect! Please try "
+"again."
+msgstr ""
+
+#: php/admin-settings.php:278
+msgid "Or"
+msgstr ""
+
+#: php/admin-settings.php:279
+msgid ""
+"Delete this Datatable "
+"Instance"
+msgstr ""
+
+#: php/admin-settings.php:306
+msgid ""
+"Error deleting "
+"Datatable! Datatable ID "
+"was not in proper format"
+msgstr ""
+
+#: php/admin-settings.php:314
+msgid ""
+"Success! Adore Datatable "
+"instance was deleted "
+"successfully!"
+msgstr ""
+
+#: php/admin-settings.php:355
+#: php/admin-settings.php:534
+msgid "Select a Table"
+msgstr ""
+
+#: php/admin-settings.php:390
+#: php/admin-settings.php:550
+msgid ""
+"Server-side processing"
+msgstr ""
+
+#: php/admin-settings.php:391
+#: php/admin-settings.php:551
+msgid ""
+"HTML (DOM) sourced data"
+msgstr ""
+
+#: php/admin-settings.php:418
+#: php/admin-settings.php:556
+msgid "Full Numbers"
+msgstr ""
+
+#: php/admin-settings.php:419
+#: php/admin-settings.php:557
+#, fuzzy
+msgid "Full"
+msgstr ""
+"If set, this option will "
+"force your maps with "
+"width shortcode "
+"attribute set to scale "
+"relative to their "
+"original size, rather "
+"then expanding the full "
+"width of parent element."
+
+#: php/admin-settings.php:420
+#: php/admin-settings.php:558
+msgid "Simple Numbers"
+msgstr ""
+
+#: php/admin-settings.php:421
+#: php/admin-settings.php:559
+msgid "Simple"
+msgstr ""
+
+#: php/admin-settings.php:459
+msgid ""
+"Update Adore Datatable"
+msgstr ""
+
+#: php/admin-settings.php:462
+msgid ""
+"Name using which you "
+"would recognize your "
+"datatable instance"
+msgstr ""
+
+#: php/admin-settings.php:462
+msgid "Datatable Name"
+msgstr ""
+
+#: php/admin-settings.php:463
+msgid ""
+"CSS ID attribute for the "
+"HTML Table"
+msgstr ""
+
+#: php/admin-settings.php:463
+msgid "Table ID"
+msgstr ""
+
+#: php/admin-settings.php:463
+#: php/admin-settings.php:464
+#: php/admin-settings.php:571
+#: php/admin-settings.php:572
+msgid "Optional"
+msgstr ""
+
+#: php/admin-settings.php:464
+msgid ""
+"Additional class for the "
+"HTML Table"
+msgstr ""
+
+#: php/admin-settings.php:464
+msgid "Table Class"
+msgstr ""
+
+#: php/admin-settings.php:472
+msgid ""
+"HTML Table or Server "
+"Side Ajaxed. Warning: "
+"Too many records may "
+"freeze your browser if "
+"you select HTML (DOM) "
+"sourced data."
+msgstr ""
+
+#: php/admin-settings.php:472
+msgid "Table Type"
+msgstr ""
+
+#: php/admin-settings.php:473
+#: php/admin-settings.php:581
+msgid ""
+"Datatable Pagination "
+"Types"
+msgstr ""
+
+#: php/admin-settings.php:473
+#: php/admin-settings.php:581
+msgid "Pagination"
+msgstr ""
+
+#: php/admin-settings.php:474
+#: php/admin-settings.php:582
+msgid ""
+"Select a Database Table"
+msgstr ""
+
+#: php/admin-settings.php:485
+#: php/admin-settings.php:593
+msgid "Allow Search"
+msgstr ""
+
+#: php/admin-settings.php:486
+#: php/admin-settings.php:594
+msgid "Ordering"
+msgstr ""
+
+#: php/admin-settings.php:487
+#: php/admin-settings.php:595
+msgid "Show Info"
+msgstr ""
+
+#: php/admin-settings.php:490
+#: php/admin-settings.php:598
+msgid "AutoWidth"
+msgstr ""
+
+#: php/admin-settings.php:491
+#: php/admin-settings.php:599
+msgid "Scroll Vertical"
+msgstr ""
+
+#: php/admin-settings.php:492
+#: php/admin-settings.php:600
+msgid ""
+"Individual Column "
+"Filtering"
+msgstr ""
+
+#: php/admin-settings.php:495
+msgid ""
+"Datatable DOM "
+"Positioning (Leave it "
+"blank if you do not know "
+"what you are "
+"doing.)\">Dom"
+msgstr ""
+
+#: php/admin-settings.php:501
+#: php/admin-settings.php:609
+msgid ""
+"Extra options while "
+"datatable is rendering "
+"rows (Leave it blank if "
+"you do not know what you "
+"are doing.)"
+msgstr ""
+
+#: php/admin-settings.php:508
+#: php/admin-settings.php:616
+msgid "Save Datatable"
+msgstr ""
+
+#: php/admin-settings.php:567
+msgid ""
+"Create a new Adore "
+"Datatable!"
+msgstr ""
+
+#: php/admin-settings.php:570
+msgid ""
+"Name using which you "
+"would recognize your "
+"datatable instance"
+"\">Datatable Name"
+msgstr ""
+
+#: php/admin-settings.php:571
+msgid ""
+"CSS ID attribute for the "
+"HTML Table\">Table ID"
+msgstr ""
+
+#: php/admin-settings.php:572
+msgid ""
+"Additional class for the "
+"HTML Table\">Table Class"
+msgstr ""
+
+#: php/admin-settings.php:580
+msgid ""
+"HTML Table or Server "
+"Side Ajaxed. Warning: "
+"Too many records may "
+"freeze your browser if "
+"you select HTML (DOM) "
+"sourced data.\">Table "
+"Type"
+msgstr ""
+
+#: php/admin-settings.php:603
+msgid ""
+"Datatable DOM "
+"Positioning (Leave it "
+"blank if you do not know "
+"what you are doing.)"
+msgstr ""
+
+#: php/admin-settings.php:634
+msgid ""
+"Column select error!"
+msgstr ""
+
+#: php/admin-settings.php:647
+#, fuzzy
+msgid "Name"
+msgstr ""
+"Latitude field name:"
+
+#: php/admin-settings.php:648
+#, fuzzy
+msgid "Title"
+msgstr "Title"
+
+#: php/admin-settings.php:649
+#, fuzzy
+msgid "Visible"
+msgstr "Visible for"
+
+#: php/admin-settings.php:650
+msgid "Searchable"
+msgstr ""
+
+#: php/admin-settings.php:651
+msgid "Sortable"
+msgstr ""
+
+#: php/admin-settings.php:652
+msgid "CSS Class(es)"
+msgstr ""
+
+#: php/admin-settings.php:653
+msgid "Column Position"
+msgstr ""
+
+#: php/admin-settings.php:712
+msgid ""
+"Datatable could not be "
+"saved. Please try again!"
+msgstr ""
+
+#: php/admin-settings.php:719
+#: php/admin-settings.php:834
+msgid ""
+"Security Error! Security "
+"could not be validated! "
+"Please try again!"
+msgstr ""
+
+#: php/admin-settings.php:727
+msgid ""
+"Error! Please provide "
+"datatable name and try "
+"again."
+msgstr ""
+
+#: php/admin-settings.php:734
+msgid ""
+"Error! Please select a "
+"database table/view and "
+"try again."
+msgstr ""
+
+#: php/admin-settings.php:747
+msgid ""
+"Error! Datatable name "
+"cannot be duplicate. "
+"Please input another "
+"name and try again."
+msgstr ""
+
+#: php/admin-settings.php:792
+msgid ""
+"Adore Datatable Settings "
+"were saved! Please wait!"
+msgstr ""
+
+#: php/admin-settings.php:827
+msgid ""
+"Adore Datatables "
+"Settings could not be "
+"saved. Please try again."
+msgstr ""
+
+#: php/admin-settings.php:840
+msgid ""
+"Settings values are "
+"empty. Please try again!"
+msgstr ""
+
+#: php/admin-settings.php:856
+msgid ""
+"Adore Datatables "
+"Settings were saved "
+"successfully!"
+msgstr ""
+
+#: php/admin-settings.php:1222
+msgid ""
+"Table ID text cannot "
+"have space."
+msgstr ""
+
+#: php/admin-settings.php:1223
+msgid ""
+"Please select a Database "
+"Table."
+msgstr ""
+
+#: php/admin-settings.php:1224
+msgid ""
+"Please input datatable "
+"name."
+msgstr ""
+
+#: php/admin-settings.php:1225
+msgid ""
+"Table Column position "
+"cannot be empty. Please "
+"check your input and try "
+"again."
+msgstr ""
+
+#: php/admin-settings.php:1226
+msgid ""
+"Table Column position is "
+"not a number. Please "
+"check your input and try "
+"again."
+msgstr ""
+
+#: php/admin-settings.php:1227
+msgid ""
+"Table Column position "
+"cannot be duplicate. "
+"Please check your input "
+"and try again."
+msgstr ""
+
+#: php/admin-settings.php:1228
+msgid ""
+"Table Column position "
+"cannot be a negative "
+"number. Please check "
+"your input and try again."
+msgstr ""
+
+#: php/admin-settings.php:1229
+msgid ""
+"Table Column position "
+"cannot be a decimal "
+"number. Please check "
+"your input and try again."
+msgstr ""
+
+#: php/admin-settings.php:1230
+msgid ""
+"Table Column position "
+"cannot exceed total "
+"columns numbers. Please "
+"check your input and try "
+"again."
+msgstr ""
+
+#: php/admin-settings.php:1231
+msgid ""
+"Delete this Datatable?"
+msgstr ""
+
+#: php/adore-datatables.php:58
+msgid ""
+"Error! You have not "
+"provided Adore Datatable "
+"ID or Name in your "
+"shortcode tag."
+msgstr ""
+
+#: php/adore-datatables.php:84
+msgid ""
+"Error! Adore Datatable "
+"information was not "
+"found in the database. "
+"Please check the "
+"shortcode tag."
+msgstr ""
+
+#: php/adore-datatables.php:208
+msgid ""
+"Loading data from server"
+msgstr ""
+
+#: php/adore-datatables.php:216
+msgid ""
+"Data not available in "
+"the database."
+msgstr ""

@@ -1,0 +1,77 @@
+0.0.9 Release Date 21-4-2017
+------------------------------------------------------------------------
+* Fix issue https://github.com/nirajkvinit/adore-datatables/issues/10
+
+
+
+0.0.8 Release Date 21-4-2017
+------------------------------------------------------------------------
+* Allow advanced search filtering
+* Uses DataTables 1.10.15
+
+
+0.0.7   Release Date    10-4-2017
+------------------------------------------------------------------------
+* Uses the wordpress locale for Datatables translations
+* Add className for each column
+* Add adt_blog_id into the adore_datatable_settings
+
+0.0.6   Release Date    10-4-2017
+------------------------------------------------------------------------
+* Datatable are stored only in database and not as php files.
+* Various code rewrites
+* i18n compatible
+
+0.0.3	Release Date	20-03-2015
+------------------------------------------------------------------------
+* Removing ADT slug, only using ADT ID in shortcode.
+* User can delete any ADT instance.
+* fixed some bugs.
+
+0.0.3	Release Date	20-03-2015
+------------------------------------------------------------------------
+* Adore Datatables Settings Page created in the wordpress Admin Control Panel.
+* Dynamically read all tables/views in the database and let user create Datatable based on a selected table/view.
+* Option provided to show/hide coulmns of a table/view in the datatable.
+* Option for Server Side/HTML Datatable
+* Option for adding jQueryUI or Bootstrap style
+* Custom JS and CSS can be saved and will be loaded on every page/post wherever Adore Datatable instance is found.
+* Custom JS and CSS version will increment on every update in the control panel.
+* jQueryUI Theme selection
+* Uninstalling the plugin will remove Adore Datatable Database entries.
+* Fixed Shortcode arrtibutes bug
+* Fixed Directory not found bug for Adore Datatables Server Side Processing files
+
+
+0.0.2	Release Date	03/03/2015
+------------------------------------------------------------------------
+* Removing jqueryui, instead using vanila datatables cdn
+* Fixed Network Error Bug (Using CDN Assets instead of Plugin assets)
+* Removed bPaginate and bJQueryUI as this is a vanila demo
+* Plugin folder was renamed to append "-master" as github appends "-master" for the project. However, this will not be an issue
+  as the code has been changed to reflect the url of the plugin folder irrespective of its name.
+
+0.0.1	Release Date	02/03/2015
+------------------------------------------------------------------------
+* Initial Release
+* Sample Datatable Plugin
+* Demo Table with Data
+* Demo Datatable shortcode [adt_demo_datatables]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roadmap
+------------------------------------------------------------------------
